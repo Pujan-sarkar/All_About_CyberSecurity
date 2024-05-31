@@ -1,22 +1,22 @@
 # Cybersecurity Learning Resources
 
 ## What is Cybersecurity?
-
-Cybersecurity involves protecting computer systems, networks, and data from unauthorized access, theft, and damage. It encompasses various practices and technologies designed to safeguard information integrity, confidentiality, and availability.
-
+<pre>
+Cybersecurity involves protecting computer systems, networks, and data from unauthorized access, theft, and damage. It encompasses 
+various practices and technologies designed to safeguard information integrity, confidentiality, and availability.
+</pre>
 ## Importance of Cybersecurity
 
 Cybersecurity is essential for:
 
-- **Protecting Sensitive Information**: Ensuring that personal and organizational data remains confidential and secure.
-- **Preventing Cyber Attacks**: Defending against various forms of cyber threats such as malware, phishing, and ransomware.
-- **Maintaining Trust**: Building and maintaining trust with users and clients by securing their data.
-- **Compliance and Regulations**: Adhering to legal and regulatory requirements related to data protection and privacy.
+ - **Protecting Sensitive Information**: Ensuring that personal and organizational data remains confidential and secure.
+ - **Preventing Cyber Attacks**: Defending against various forms of cyber threats such as malware, phishing, and ransomware.
+ - **Maintaining Trust**: Building and maintaining trust with users and clients by securing their data.
+ - **Compliance and Regulations**: Adhering to legal and regulatory requirements related to data protection and privacy.
 
 ## Key Areas in Cybersecurity
 
 Cybersecurity is a broad field with several key areas:
-
 ### 1. Network Security
 
 Network security involves protecting a computer network from intruders, whether targeted attackers or opportunistic malware. Key components include:
