@@ -62,11 +62,6 @@ To start your journey in cybersecurity, consider the following steps:
 
 ### Recommended Learning Resources
 
-#### Books
-
-- *Cybersecurity Essentials* by Charles J. Brooks, Christopher Grow, Philip Craig, and Donald Short
-- *The Web Application Hacker's Handbook* by Dafydd Stuttard and Marcus Pinto
-
 #### Online Courses
 
 - [Cybrary's Cybersecurity Courses](https://www.cybrary.it/)
